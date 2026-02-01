@@ -1,0 +1,8 @@
+/uploads/*
+!/uploads/.gitkeep
+
+/includes/db.php
+db.php
+
+.env
+*.log
